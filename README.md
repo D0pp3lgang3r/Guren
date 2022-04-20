@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="image/index.png" />
-  <img src="image/Guren.png" />
-  <img src="image/index.png" />
+  <img src="image/index.png" width=130/>
+  <img src="image/Guren.png" width=130/>
+  <img src="image/index.png" width=130/>
 </p>
 
 # 📖 Sommary
